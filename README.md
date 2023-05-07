@@ -36,7 +36,7 @@ To install and run this project no your local machine, follow these steps:
 -----
 ## Navigate To our Great App
 
-after running the 2 servers (front, back) you can easily follow the [Our Messanger App](http://127.0.0.1:3000/notifications) 'http://127.0.0.1:3000/notifications'.
+after running the 2 servers (front, back) you can easily follow the [Our Messanger App](http://localhost:8080/) 'http://localhost:8080/'.
  
 This Welcome Page will be displayed for u:
 
